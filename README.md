@@ -4,5 +4,5 @@ This is a test and will be added to the master branch..
 
 
 # Next steps:
-1- Coding..
+1- Coding..\n
 2- Writing results ..
